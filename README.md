@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Lorenzo Raia
 
-I'm an experienced web and software developer with a wide range of technical skills.
+I'm an experienced web and software developer with a wide range of technical skills, based in Milan, Italy. 🌍
 
 ### About me
 - 🖥️ Software and Web Developer
